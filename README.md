@@ -13,3 +13,4 @@
 # Train & Test
 * python3.7 run_ad --train_file [train file] --test_file [test_file] --from_init_weight --do_train
 * python3.7 run_ad --test_file [test_file] --do_evaluate
+ 
